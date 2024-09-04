@@ -1,3 +1,5 @@
+This website is hosted on my personal home server made by using an old PC, for details how to change your PC into server using Linux, see my Webserver Repo.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
